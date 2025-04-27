@@ -2,7 +2,7 @@
 
 This project focuses on extracting **measurement-related entities** such as weight, dimensions, and other quantities from images by combining **text** and **visual** information.
 
-The system uses **OCR** to extract text from images, applies **entity recognition** using the **BIO tagging** scheme, and then refines the outputs using **regular expressions** to ensure consistent formatting and unit standardization.
+The system uses **OCR** to extract text from images, applies **entity recognition** and then refines the outputs using **regular expressions** to ensure consistent formatting and unit standardization.
 
 ---
 
